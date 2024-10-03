@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [To Do Task Manager](https://github.com/Prabhav-saini/ToDoList)
 
-- 🌱 I’m currently learning **Spring Batch Framework**
+- 🌱 I’m currently learning **Spring Batch Framework, graphQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prabhav-saini?tab=repositories](https://github.com/Prabhav-saini?tab=repositories)
 
